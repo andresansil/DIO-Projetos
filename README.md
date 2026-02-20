@@ -3,7 +3,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://github.com/user-attachments/assets/02229760-a492-41e4-9c77-c889b9e442db" alt="GenAI" width="80" align="middle">
+        <img src="https://github.com/user-attachments/assets/02229760-a492-41e4-9c77-c889b9e442db" alt="GenAI" width="70" align="middle">
       </td>
       <td>
         <strong>Projeto Bradesco - GenAI & Dados</strong>

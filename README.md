@@ -1,11 +1,11 @@
 # DIO-Projetos
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0">
-    <tr style="border: none;">
-      <td style="border: none;">
+  <table>
+    <tr>
+      <td>
         <img src="https://github.com/user-attachments/assets/02229760-a492-41e4-9c77-c889b9e442db" alt="GenAI" width="80" align="middle">
       </td>
-      <td style="border: none;">
+      <td>
         <strong>Projeto Bradesco - GenAI & Dados</strong>
       </td>
     </tr>

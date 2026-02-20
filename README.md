@@ -1,6 +1,6 @@
 # DIO-Projetos
 <h2 align="center">
-  <img src="https://github.com/user-attachments/assets/02229760-a492-41e4-9c77-c889b9e442db" alt="GenAI" width="80" style="vertical-align: middle;">
+  <img src="https://github.com/user-attachments/assets/02229760-a492-41e4-9c77-c889b9e442db" alt="GenAI" width="80" style="vertical-align: left;">
   <span style="vertical-align: middle;">&nbsp; Projeto Bradesco - GenAI & Dados</span>
 </h2>
 

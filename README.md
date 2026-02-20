@@ -1,5 +1,4 @@
 # DIO-Projetos
-Este repositório contém projetos dos cursos oferecidos pela DIO.
 ## <p align="left"><img src="https://github.com/user-attachments/assets/02229760-a492-41e4-9c77-c889b9e442db" alt="GenAI" width="80">Projeto Bradesco - GenAI & Dados</p>
 📌 [Trabalho Final NotebookLM](https://notebooklm.google.com/notebook/79f9afa4-b345-4b90-8938-493fc10b41f7)
 * __Pesquisa:__ Evolução do Pensamento Econômico

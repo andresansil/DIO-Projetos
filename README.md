@@ -10,7 +10,8 @@
       </td>
     </tr>
   </table>
-</div>
+</div
+  
 📌 [Trabalho Final NotebookLM](https://notebooklm.google.com/notebook/79f9afa4-b345-4b90-8938-493fc10b41f7)
 
 * __Pesquisa:__ Evolução do Pensamento Econômico

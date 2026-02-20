@@ -1,8 +1,16 @@
 # DIO-Projetos
-<h2 align="center">
-  <img src="https://github.com/user-attachments/assets/02229760-a492-41e4-9c77-c889b9e442db" alt="GenAI" width="80" style="vertical-align: left;">
-  <span style="vertical-align: left;">&nbsp; Projeto Bradesco - GenAI & Dados</span>
-</h2>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github.com/user-attachments/assets/02229760-a492-41e4-9c77-c889b9e442db" alt="GenAI" width="80" align="middle">
+      </td>
+      <td>
+        <strong>Projeto Bradesco - GenAI & Dados</strong>
+      </td>
+    </tr>
+  </table>
+</div>
 
 📌 [Trabalho Final NotebookLM](https://notebooklm.google.com/notebook/79f9afa4-b345-4b90-8938-493fc10b41f7)
 * __Pesquisa:__ Evolução do Pensamento Econômico
